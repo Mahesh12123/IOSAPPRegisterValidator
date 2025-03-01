@@ -25,6 +25,11 @@ IOSAPPRegisterValidator is a lightweight iOS application designed to validate us
 
 ### Manual Installation
 
+1 .Download the IOSAPPRegisterValidator source code.
+2 .Drag and drop the IOSAPPRegisterValidator folder into your Xcode project.
+3 .Ensure that the files are added to your target.
+4 .Import the IOSAPPRegisterValidator in Your Code 
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mahesh12123/IOSAPPRegisterValidator.git
