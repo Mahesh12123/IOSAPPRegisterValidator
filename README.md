@@ -13,6 +13,7 @@ IOSAPPRegisterValidator is a lightweight iOS application designed to validate us
 - **Username Validation**: Checks if the username meets the required criteria (e.g., no special characters, minimum length).
 - **Real-time Feedback**: Provides real-time validation feedback to the user as they type.
 - **Customizable Rules**: Allows developers to easily customize validation rules to fit their specific needs.
+   - **Error Handling**: Provides clear error messages for failed validations.
 
 ## Requirements
 
